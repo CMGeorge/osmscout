@@ -1,0 +1,9 @@
+{
+    "Keys": ["osmscout"],
+    "Provider": "osmscout",
+    "Version": 100,
+    "Experimental": false,
+    "Features": [
+        "OfflineMappingFeature"
+    ]
+}
